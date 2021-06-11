@@ -467,7 +467,7 @@
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  align-items: flex-start; }
+  align-items: center; }
 
 ._-LJ2W._3NsOQ {
   flex-direction: row-reverse;
@@ -478,8 +478,8 @@
   display: block;
   height: 100%;
   min-width: 10%;
-  width: 10%;
-  max-width: 10%;
+  width: 20%;
+  max-width: 20%;
   overflow: hidden;
   margin-right: 3px;
   padding: 0;
